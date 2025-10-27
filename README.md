@@ -3,11 +3,17 @@
 
 ### Where to use classes approach?
 🧩 1. Reusable Script Modules (structured logic) - 🟢 Great for modules that manage services, VMs, containers, or files — keeps each resource’s state encapsulated.
+
 🧰 2. Complex Configuration or Data Models
+
 🧾 3. Validation & Business Logic
+
 📦 4. Tooling, plugins, or custom providers
+
 🧪 5. Testing and Mocking
+
 🗂️ 6. Background jobs or async task wrappers
+
 
 ### For those who is like me thought that "hey! We have got cmdlets aleaady and functions!"
 
